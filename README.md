@@ -10,3 +10,8 @@
 3. **Data Visualization & Storytelling** bring your data to life and uncover insights for the business. Practical skills gained: Data Analysis, Storytelling, Data Visualization
 
 4. **Present to the Client** It’s the time to shine by presenting your insights back to the client. Practical skills gained: Presentations, Communication, Public Speaking
+
+Deliverable:
+1.
+2.
+3.
