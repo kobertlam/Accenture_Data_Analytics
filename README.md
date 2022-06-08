@@ -11,7 +11,7 @@
 
 4. **Present to the Client** It’s the time to shine by presenting your insights back to the client. Practical skills gained: Presentations, Communication, Public Speaking
 
-Deliverable:
-1.
-2.
-3.
+## Deliverable:
+1. asf
+2. af 
+3. afa 
