@@ -13,6 +13,6 @@
 4. **Present to the Client** It’s the time to shine by presenting your insights back to the client. Practical skills gained: Presentations, Communication, Public Speaking
 
 ## Deliverable:
-1. Python script for task 2: [Data_Cleaning_Modeling.ipynb]("2 Data Cleaning and Modeling"/Data_Cleaning_Modeling.ipynb)
+1. Python script for task 2: [Data_Cleaning_Modeling.ipynb](2%20Data%20Cleaning%20and%20Modeling/Data_Cleaning_Modeling.ipynb)
 2. Final Dataset for task 2: FinalDataSet.csv
 3. Final Answer for task 2: Top5_Category.csv
