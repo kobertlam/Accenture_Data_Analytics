@@ -1,5 +1,6 @@
 # Accenture North America Data Analytics Virtual Experience
 
+## Background:
 * I work in this internship as a data analyst and work with a talented team.
 
 * This project breaks down into 4 sections:
