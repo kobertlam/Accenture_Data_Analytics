@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Exclude files
+Data_Analytics_Virtual_Experience_completion_certificate.pdf
+GitHub.txt
+
 # Distribution / packaging
 .Python
 build/
